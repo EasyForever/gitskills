@@ -1,4 +1,4 @@
 # gitskills
 Creating a new branch is quick and simple.
 dev+my
-2nd 3
+2nd third
